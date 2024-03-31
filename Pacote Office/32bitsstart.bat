@@ -1,0 +1,1 @@
+setup.exe/configure Config32.xml
